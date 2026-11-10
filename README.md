@@ -1,38 +1,71 @@
-<!-- v2: matches shaileshmaddikera.github.io. The simpler v1 is on the `v1-classic` branch and in versions/README-v1-classic.md. Images are built by tools/build.py. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:5fa8d3&height=180&section=header&text=Shailesh%20Maddikera&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Student%20%C2%B7%20Builder&descAlignY=58&descSize=16" width="100%" alt="Shailesh Maddikera — Student · Builder" />
 
-<a href="https://shaileshmaddikera.github.io"><img src="assets/header-dark.svg#gh-dark-mode-only" alt="Shailesh Maddikera — Student and builder. AI agents, native apps, full-stack systems. Building in stealth." width="100%"><img src="assets/header-light.svg#gh-light-mode-only" alt="Shailesh Maddikera — Student and builder. AI agents, native apps, full-stack systems. Building in stealth." width="100%"></a>
+### Hi, I'm Shailesh 👋
+
+I'm a **student who builds and ships products**: AI agents, native apps and full-stack systems, taken from idea to something real people can use.
+
+- 🔭 **Now:** working on a stealth build. More soon 👀
+- 🧠 **Interests:** AI agents, on-device vision, real-time voice, and products people use every day
+- ⚡ **How I work:** prototype fast, test end-to-end, and never fake the data
+
+---
+
+### 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ShaileshMaddikera/Surety.ai">⚖️ Surety.ai</a></h4>
+      <p>A two-model compliance system for regulated financial advice. A <b>Generator</b> proposes a recommendation and a <b>Checker</b> challenges it against a versioned policy corpus, citing specific clauses. The output is an audit record showing <i>why</i> the system said what it said.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ShaileshMaddikera/MyGeneticMenu">🧬 MyGeneticMenu</a></h4>
+      <p>Personalized diet plans based on your genetics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🔒 Stealth build</h4>
+      <p>Something new is in the works. Details coming soon.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tech I use
 
 <p>
-<a href="https://shaileshmaddikera.github.io"><img src="assets/pill-website-dark.svg#gh-dark-mode-only" alt="Website" height="40"><img src="assets/pill-website-light.svg#gh-light-mode-only" alt="Website" height="40"></a>
-<a href="https://www.linkedin.com/in/shailesh-maddikera/"><img src="assets/pill-linkedin-dark.svg#gh-dark-mode-only" alt="LinkedIn" height="40"><img src="assets/pill-linkedin-light.svg#gh-light-mode-only" alt="LinkedIn" height="40"></a>
-<a href="https://shaileshmaddikera.wixsite.com/shailesh-maddikera-o/resume-1"><img src="assets/pill-resume-dark.svg#gh-dark-mode-only" alt="Résumé" height="40"><img src="assets/pill-resume-light.svg#gh-light-mode-only" alt="Résumé" height="40"></a>
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,py,react,nextjs,tailwind,fastapi,sqlite,vercel,docker,git,apple&perline=13" alt="Swift, TypeScript, JavaScript, Python, React, Next.js, Tailwind, FastAPI, SQLite, Vercel, Docker, Git, Apple platforms" />
 </p>
 
-<br>
+**Also:** SwiftUI · Vision · LiveKit · Gemini Live API · Turso (libSQL)
 
-<img src="assets/label-work-dark.svg#gh-dark-mode-only" alt="Selected work" width="100%"><img src="assets/label-work-light.svg#gh-light-mode-only" alt="Selected work" width="100%">
+---
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShaileshMaddikera&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</p>
+
+---
+
+### 📫 Find me
 
 <p>
-<a href="https://github.com/ShaileshMaddikera/Surety.ai"><img src="assets/card-surety-dark.svg#gh-dark-mode-only" alt="Surety.ai — a Generator proposes, a Checker challenges it with cited policy clauses; every answer leaves an audit record." width="49%"><img src="assets/card-surety-light.svg#gh-light-mode-only" alt="Surety.ai — a Generator proposes, a Checker challenges it with cited policy clauses; every answer leaves an audit record." width="49%"></a>
-<img src="assets/card-stealth-dark.svg#gh-dark-mode-only" alt="Stealth build — something new across apps, cloud and hardware. Details soon." width="49%"><img src="assets/card-stealth-light.svg#gh-light-mode-only" alt="Stealth build — something new across apps, cloud and hardware. Details soon." width="49%">
-</p>
-<p>
-<a href="https://github.com/ShaileshMaddikera/MyGeneticMenu"><img src="assets/card-dna-dark.svg#gh-dark-mode-only" alt="MyGeneticMenu — personalized diet plans from your genetics." width="49%"><img src="assets/card-dna-light.svg#gh-light-mode-only" alt="MyGeneticMenu — personalized diet plans from your genetics." width="49%"></a>
-<img src="assets/card-rl-dark.svg#gh-dark-mode-only" alt="Trackmania RL driver — Soft Actor-Critic in PyTorch, driving from LIDAR-style distances and telemetry." width="49%"><img src="assets/card-rl-light.svg#gh-light-mode-only" alt="Trackmania RL driver — Soft Actor-Critic in PyTorch, driving from LIDAR-style distances and telemetry." width="49%">
+  <a href="https://www.linkedin.com/in/shailesh-maddikera/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://shaileshmaddikera.wixsite.com/shailesh-maddikera-o"><img src="https://img.shields.io/badge/Website-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<br>
-
-<img src="assets/label-journey-dark.svg#gh-dark-mode-only" alt="Journey" width="100%"><img src="assets/label-journey-light.svg#gh-light-mode-only" alt="Journey" width="100%">
-
-<img src="assets/journey-dark.svg#gh-dark-mode-only" alt="Now: Stealth build. Nov 2026: this website. Aug 2026: Surety.ai. Jun 2025: MyGeneticMenu. Mar 2025: Trackmania RL driver." width="100%"><img src="assets/journey-light.svg#gh-light-mode-only" alt="Now: Stealth build. Nov 2026: this website. Aug 2026: Surety.ai. Jun 2025: MyGeneticMenu. Mar 2025: Trackmania RL driver." width="100%">
-
-<br>
-
-<img src="assets/label-focus-dark.svg#gh-dark-mode-only" alt="What I work on" width="100%"><img src="assets/label-focus-light.svg#gh-light-mode-only" alt="What I work on" width="100%">
-
-<img src="assets/focus-dark.svg#gh-dark-mode-only" alt="AI agents and LLM systems; native Apple apps; full-stack and infrastructure; hardware and wearables." width="100%"><img src="assets/focus-light.svg#gh-light-mode-only" alt="AI agents and LLM systems; native Apple apps; full-stack and infrastructure; hardware and wearables." width="100%">
-
-<br>
-
-<a href="https://shaileshmaddikera.github.io"><img src="assets/footer-dark.svg#gh-dark-mode-only" alt="I like turning ideas into things people actually use." width="100%"><img src="assets/footer-light.svg#gh-light-mode-only" alt="I like turning ideas into things people actually use." width="100%"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5fa8d3,50:2c5364,100:0f2027&height=100&section=footer" width="100%" />
