@@ -65,7 +65,7 @@ I'm a **student who builds and ships products**: AI agents, native apps and full
 
 <p>
   <a href="https://www.linkedin.com/in/shailesh-maddikera/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://shaileshmaddikera.wixsite.com/shailesh-maddikera-o"><img src="https://img.shields.io/badge/Website-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://shaileshmaddikera.github.io/"><img src="https://img.shields.io/badge/Website-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5fa8d3,50:2c5364,100:0f2027&height=100&section=footer" width="100%" />
